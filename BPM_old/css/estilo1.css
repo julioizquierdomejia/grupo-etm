@@ -1,0 +1,65 @@
+.Table
+    {
+        display: table;
+    }
+    .Title
+    {
+        display: table-caption;
+        text-align: center;
+        font-weight: bold;
+        font-size: larger;
+    }
+    .Heading
+    {
+        display: table-row;
+        font-weight: bold;
+        text-align: center;
+    }
+    .Row
+    {
+        display: table-row;
+		height:50px;
+    }
+    .Cell
+    {
+        display: table-cell;
+        border: solid;
+        border-width: 0px;
+        padding-left: 5px;
+        padding-right: 5px;
+		vertical-align:middle;
+		width:300px;
+		text-align:right;
+    }/* CSS Document */
+
+	.ColNivel
+	{
+		width:40px;
+		text-align:right;
+	}
+
+	.buttonDel
+	{
+		}
+	
+	.buttonVer
+	{
+
+		}
+	
+	.buttonDelItem
+	{
+		}
+		
+	.RowSelOrders{
+		background:#B3F0FF !important;
+		}
+		
+	.buttonAprobar{}
+	
+	.buttonProceso{}
+	
+	.buttonDespacho{}
+	.buttonDespachoParcial{}
+	
+	.buttonRecibido{}

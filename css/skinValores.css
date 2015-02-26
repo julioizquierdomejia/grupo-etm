@@ -1,0 +1,50 @@
+a
+{
+	text-decoration: none;
+}
+
+.libro
+{
+	color: #727d84;
+	font-size: 25px;
+	position: relative;
+}
+
+.main{
+	height: auto;
+	width: 100%;
+	overflow: hidden;
+}
+
+.unidad
+{
+	color: #727d84;
+	font-size: 12px;
+}
+.skinValores{
+	background-image: url('../img/cabecera_descargas.png');
+	background-repeat: no-repeat;
+	float: left;
+	width: 855px;
+	height: auto;
+	position: relative;
+	margin: 40px 0px 0px 28px;
+}
+
+.skinValores img
+{
+	vertical-align: middle;
+}
+
+#envolturaTree
+{
+	margin-left: 30px;
+}
+
+#tituloValores
+{
+	color: white;
+	font-size: 13px;
+	margin-left: 30px;
+	margin-top: 5px;
+}

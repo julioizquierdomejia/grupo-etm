@@ -1,0 +1,7 @@
+# Use PHP55 as default
+AddHandler application/x-httpd-php55 .php
+# BEGIN custom php.ini PHP55
+<IfModule mod_suphp.c>
+    suPHP_ConfigPath /home/grupo/public_html/BPM
+</IfModule>
+# END custom php.ini

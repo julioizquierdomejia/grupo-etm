@@ -1,0 +1,68 @@
+.descargaInfo
+{
+	color: #727d84;
+	font-size: 12px;
+	margin-left: 354px;
+	position: absolute;
+}
+
+.skinDescargas
+{
+	background-image: url('../img/fondoDescargas.png');
+	background-repeat: no-repeat;
+	float: left;
+	width: 855px;
+	height: 530px;
+	position: relative;
+	margin: 40px 0px 0px 28px;
+}
+
+.skinDescargas img
+{
+	vertical-align: middle;
+}
+
+#descargaBoton
+{
+	margin-top: 250px;
+}
+
+#iconDescarga
+{
+	margin: 118px 251px;
+	position: absolute;
+}
+
+#importante
+{
+	color: black;
+	font-size: 10px;
+	margin-left: 270px;
+	margin-top: 350px;
+	font-size: 12px;
+	font-family: 'Arial';
+}
+
+#nombreArchivo
+{
+	color: black;
+	font-size: 25px;
+	margin-top: 145px;
+}
+
+#temaYPagina
+{
+	margin-top: 200px;
+}
+
+#tituloDescarga
+{
+	font-size: 13px;
+	margin: 5px 270px;
+	position: absolute;
+}
+
+#unidad
+{ 	
+	margin-top: 185px;
+}

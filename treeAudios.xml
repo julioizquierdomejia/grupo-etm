@@ -1,0 +1,101 @@
+<tree title="DESCUBRIR VALORES">
+	<libro title="DVI3">
+		<unidad title="Unidad 1">
+			<file tipo="mp3" title="Canción" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=1-DVI3-U1Cancion.mp3&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/3/canciones/1-DVI3-U1Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+		</unidad>
+		<unidad title="Unidad 3">
+			<file tipo="mp3" title="Title" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=2-DVI3-U3Cancion.mp3&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/3/canciones/2-DVI3-U3Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+			<file tipo="mp3" title="Cuento" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Cuento&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/3/cuentos/3DVI3-U3Cuento.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+		</unidad>
+		<unidad title="Unidad 4">
+			<file tipo="mp3" title="Title" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=3-DVI3-U4Cancion.mp3&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/3/canciones/3-DVI3-U4Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+			<file tipo="mp3" title="Cuento" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Cuento&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/3/cuentos/5DVI3-U4Cuento.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+		</unidad>
+		<unidad title="Unidad 6">
+			<file tipo="mp3" title="Title" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=4-DVI3-U6Cancion.mp3&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/3/canciones/4-DVI3-U6Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+			<file tipo="mp3" title="Cuento" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Cuento&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/3/cuentos/7DVI3-U6Cuento.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+		</unidad>
+		<unidad title="Unidad 7">
+			<file tipo="mp3" title="Title" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=5-DVI3-U7Cancion.mp3&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/3/canciones/5-DVI3-U7Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+		</unidad>
+		<unidad title="Unidad 8">
+			<file tipo="mp3" title="Title" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=6-DVI3-U8Cancion.mp3&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/3/canciones/6-DVI3-U8Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+			<file tipo="mp3" title="Cuento" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Cuento&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/3/cuentos/11DVI3-U8Cuento.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+		</unidad>
+		<unidad title="Unidad 9">
+			<file tipo="mp3" title="Title" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=7-DVI3-U9Cancion.mp3&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/3/canciones/7-DVI3-U9Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+			<file tipo="mp3" title="Cuento" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Cuento&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/3/cuentos/13DVI3-U9Cuento.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+		</unidad>
+	</libro>
+
+
+	<libro title="DVI4">
+		<unidad title="Unidad 1">
+			<file tipo="mp3" title="Title" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=1-DVI4-U1Cancion.mp3&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/4/canciones/1-DVI4-U1Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+			<file tipo="mp3" title="Cuento" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Cuento&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/4/cuentos/1DVI4-U1CuentoCorr1.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+		</unidad>
+		<unidad title="Unidad 2">
+			<file tipo="mp3" title="Title" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=2-DVI4-U2Cancion.mp3&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/4/canciones/2-DVI4-U2Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+			<file tipo="mp3" title="Cuento" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Cuento&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/4/cuentos/3DVI4-U2Cuento.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+		</unidad>
+		<unidad title="Unidad 4">
+			<file tipo="mp3" title="Title" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=3-DVI4-U4 Cancion.mp3&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/4/canciones/3-DVI4-U4 Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+			<file tipo="mp3" title="Cuento" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Cuento&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/4/cuentos/5DVI4-U4Cuento.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+		</unidad>
+		<unidad title="Unidad 5">
+			<file tipo="mp3" title="Title" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=4-DVI4-U5Cancion.mp3&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/4/canciones/4-DVI4-U5Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+			<file tipo="mp3" title="Cuento" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Cuento&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/4/cuentos/7DVI4-U5Cuento.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+		</unidad>
+		<unidad title="Unidad 7">
+			<file tipo="mp3" title="Title" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=5-DVI4-U7Cancion.mp3&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/4/canciones/5-DVI4-U7Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+			<file tipo="mp3" title="Cuento" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Cuento&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/4/cuentos/9DVI4-U7Cuento.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+		</unidad>
+		<unidad title="Unidad 8">
+			<file tipo="mp3" title="Title" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=6-DVI4-U8Cancion.mp3&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/4/canciones/6-DVI4-U8Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+			<file tipo="mp3" title="Cuento" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Cuento&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/4/cuentos/11DVI4-U8Cuento.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+		</unidad>
+		<unidad title="Unidad 9">
+			<file tipo="mp3" title="Title" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=7-DVI4-U9Cancion.mp3&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/4/canciones/7-DVI4-U9Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+			<file tipo="mp3" title="Cuento" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Cuento&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/4/cuentos/13DVI4-U9CuentoCorr1.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+		</unidad>
+	</libro>
+
+
+
+	<libro title="DVI5">
+		<unidad title="Unidad 1">
+			<file tipo="mp3" title="La banda corporal" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=La banda corporal&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/5/canciones/1-DVI5-U1Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=Canción - UNIDAD 1&amp;ref=1" />
+		</unidad>
+		<unidad title="Unidad 2">
+			<file tipo="mp3" title="Todo en orden" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Todo en orden&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/5/canciones/2-DVI5-U2Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=Canción - UNIDAD 2&amp;ref=1" />
+			<file tipo="mp3" title="Cuento" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Cuento&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/5/cuentos/3DVI5-U2Cuento.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+		</unidad>
+		<unidad title="Unidad 3">
+			<file tipo="mp3" title="Estoy limpio, estoy bien" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Estoy limpio, estoy bien&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/5/canciones/3-DVI5-U3Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=Canción - UNIDAD 3&amp;ref=1" />
+			<file tipo="mp3" title="Cuento" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Cuento&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/5/cuentos/5DVI5-U3CuentoCorr1.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+		</unidad>
+		<unidad title="Unidad 4">
+			<file tipo="mp3" title="Monina" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Monina&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/5/canciones/4-DVI5-U4Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=Canción - UNIDAD 4&amp;ref=1" />
+			<file tipo="mp3" title="Cuento" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Cuento&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/5/cuentos/7DVI5-U4Cuento.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+		</unidad>
+		<unidad title="Unidad 5">
+			<file tipo="mp3" title="Si tú quieres ser sincero" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Si tú quieres ser sincero&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/5/canciones/5-DVI5-U5Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=Canción - UNIDAD 5&amp;ref=1" />
+			<file tipo="mp3" title="Cuento" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Cuento&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/5/cuentos/9DVI5-U5CuentoCorr2.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+		</unidad>
+		<unidad title="Unidad 6">
+			<file tipo="mp3" title="A trabajar" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=A trabajar&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/5/canciones/6-DVI5-U6Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=Canción - UNIDAD 6&amp;ref=1" />
+			<file tipo="mp3" title="Cuento" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Cuento&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/5/cuentos/11DVI5-U6CuentoCorr1.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+		</unidad>
+		<unidad title="Unidad 7">
+			<file tipo="mp3" title="La canción de la valentía" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=La canción de la valentía&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/5/canciones/7-DVI5-U7Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=Canción - UNIDAD 1&amp;ref=1" />
+		</unidad>
+		<unidad title="Unidad 8">
+			<file tipo="mp3" title="A mis amigos" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=A mis amigos&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/5/canciones/8-DVI5-U8Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=Canción - UNIDAD 1&amp;ref=1" />
+			<file tipo="mp3" title="Cuento" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Cuento&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/5/cuentos/15DVI5-U8Cuento.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+		</unidad>
+		<unidad title="Unidad 9">
+			<file tipo="mp3" title="Canción a la generosidad" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Canción a la generosidad&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/5/canciones/9-DVI5-U9Cancion.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=Canción - UNIDAD 1&amp;ref=1" />
+			<file tipo="mp3" title="Cuento" url="http://grupo-etm.com/audio.php?libro=dvi&amp;archivo=Cuento&amp;pagina=1&amp;ruta=http://grupo-etm.com/_car_alu/d_v_i/5/cuentos/17DVI5-U9Cuento.mp3&amp;tema=tema&amp;tipo=mp3&amp;titulo=DESCUBRIR VALORES&amp;unidad=UNIDAD 1&amp;ref=1" />
+		</unidad>
+	</libro>
+</tree>

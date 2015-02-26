@@ -1,0 +1,1041 @@
+[08-Jan-2015 13:54:58 America/Chicago] PHP Warning:  include(session.php): failed to open stream: No such file or directory in /home/grupo/public_html/BPM/app/frmConsulta.php on line 3
+[08-Jan-2015 13:54:58 America/Chicago] PHP Warning:  include(session.php): failed to open stream: No such file or directory in /home/grupo/public_html/BPM/app/frmConsulta.php on line 3
+[08-Jan-2015 13:54:58 America/Chicago] PHP Warning:  include(): Failed opening 'session.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/grupo/public_html/BPM/app/frmConsulta.php on line 3
+[08-Jan-2015 13:55:41 America/Chicago] PHP Warning:  include(session.php): failed to open stream: No such file or directory in /home/grupo/public_html/BPM/app/frmConsulta.php on line 2
+[08-Jan-2015 13:55:41 America/Chicago] PHP Warning:  include(session.php): failed to open stream: No such file or directory in /home/grupo/public_html/BPM/app/frmConsulta.php on line 2
+[08-Jan-2015 13:55:41 America/Chicago] PHP Warning:  include(): Failed opening 'session.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/grupo/public_html/BPM/app/frmConsulta.php on line 2
+[08-Jan-2015 13:59:35 America/Chicago] PHP Warning:  include(session.php): failed to open stream: No such file or directory in /home/grupo/public_html/BPM/app/frmConsulta.php on line 2
+[08-Jan-2015 13:59:35 America/Chicago] PHP Warning:  include(session.php): failed to open stream: No such file or directory in /home/grupo/public_html/BPM/app/frmConsulta.php on line 2
+[08-Jan-2015 13:59:35 America/Chicago] PHP Warning:  include(): Failed opening 'session.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/grupo/public_html/BPM/app/frmConsulta.php on line 2
+[08-Jan-2015 14:00:11 America/Chicago] PHP Warning:  include(session.php): failed to open stream: No such file or directory in /home/grupo/public_html/BPM/app/frmConsulta.php on line 2
+[08-Jan-2015 14:00:11 America/Chicago] PHP Warning:  include(session.php): failed to open stream: No such file or directory in /home/grupo/public_html/BPM/app/frmConsulta.php on line 2
+[08-Jan-2015 14:00:11 America/Chicago] PHP Warning:  include(): Failed opening 'session.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/grupo/public_html/BPM/app/frmConsulta.php on line 2
+[15-Jan-2015 19:19:12 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/grupo/public_html/BPM/session.php on line 4
+[15-Jan-2015 19:19:12 America/Chicago] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/grupo/public_html/BPM/session.php on line 6
+[15-Jan-2015 19:19:12 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/grupo/public_html/BPM/session.php:4) in /home/grupo/public_html/BPM/session.php on line 7
+[15-Jan-2015 19:19:12 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/grupo/public_html/BPM/session.php on line 11
+[15-Jan-2015 19:19:12 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/grupo/public_html/BPM/session.php on line 12
+[15-Jan-2015 19:19:12 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/grupo/public_html/BPM/session.php on line 15
+[15-Jan-2015 19:19:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grupo/public_html/BPM/session.php:4) in /home/grupo/public_html/BPM/session.php on line 16
+[15-Jan-2015 19:19:15 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'grupo_bpm'@'localhost' (using password: NO) in /home/grupo/public_html/BPM/Conexion.php on line 11
+[15-Jan-2015 19:20:31 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'grupo_bpm'@'localhost' (using password: NO) in /home/grupo/public_html/BPM/Conexion.php on line 11
+[15-Jan-2015 19:24:59 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'grupo_bpm'@'localhost' (using password: NO) in /home/grupo/public_html/BPM/Conexion.php on line 11
+[15-Jan-2015 19:29:03 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'grupo_bpm'@'localhost' (using password: NO) in /home/grupo/public_html/BPM/Conexion.php on line 11
+[15-Jan-2015 19:29:07 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'grupo_bpm'@'localhost' (using password: NO) in /home/grupo/public_html/BPM/Conexion.php on line 11
+[15-Jan-2015 19:31:02 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'grupo_bpm'@'localhost' (using password: NO) in /home/grupo/public_html/BPM/Conexion.php on line 11
+[15-Jan-2015 19:32:05 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'grupo_bpm'@'localhost' (using password: NO) in /home/grupo/public_html/BPM/Conexion.php on line 11
+[15-Jan-2015 19:32:05 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'grupo_bpm'@'localhost' (using password: NO) in /home/grupo/public_html/BPM/Conexion.php on line 11
+[15-Jan-2015 19:46:13 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'grupo_bpm'@'localhost' (using password: NO) in /home/grupo/public_html/BPM/Conexion.php on line 11
+[15-Jan-2015 19:46:18 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'grupo_bpm'@'localhost' (using password: NO) in /home/grupo/public_html/BPM/Conexion.php on line 11
+[15-Jan-2015 19:46:20 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'grupo_bpm'@'localhost' (using password: NO) in /home/grupo/public_html/BPM/Conexion.php on line 11
+[15-Jan-2015 19:46:45 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'grupo_bpm'@'localhost' (using password: NO) in /home/grupo/public_html/BPM/Conexion.php on line 11
+[15-Jan-2015 19:47:01 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'grupo_bpm'@'localhost' (using password: NO) in /home/grupo/public_html/BPM/Conexion.php on line 11
+[15-Jan-2015 19:47:03 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'grupo_bpm'@'localhost' (using password: NO) in /home/grupo/public_html/BPM/Conexion.php on line 11
+[15-Jan-2015 19:47:19 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'grupo_bpm'@'localhost' (using password: NO) in /home/grupo/public_html/BPM/Conexion.php on line 11
+[22-Jan-2015 15:23:09 America/Chicago] PHP Fatal error:  Call to undefined function ValidaPrivilegio() in /home/grupo/public_html/BPM/app/frmConsulta.php on line 421
+[22-Jan-2015 15:23:17 America/Chicago] PHP Fatal error:  Call to undefined function ValidaPrivilegio() in /home/grupo/public_html/BPM/app/frmConsulta.php on line 421
+[22-Jan-2015 15:23:51 America/Chicago] PHP Fatal error:  Call to undefined function ValidaPrivilegio() in /home/grupo/public_html/BPM/app/frmConsulta.php on line 421
+[22-Jan-2015 15:24:20 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/grupo/public_html/BPM/session.php on line 4
+[22-Jan-2015 15:24:20 America/Chicago] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/grupo/public_html/BPM/session.php on line 6
+[22-Jan-2015 15:24:20 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/grupo/public_html/BPM/session.php:4) in /home/grupo/public_html/BPM/session.php on line 7
+[22-Jan-2015 15:24:20 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/grupo/public_html/BPM/session.php on line 11
+[22-Jan-2015 15:24:20 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/grupo/public_html/BPM/session.php on line 12
+[22-Jan-2015 15:24:20 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/grupo/public_html/BPM/session.php on line 17
+[22-Jan-2015 15:24:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grupo/public_html/BPM/session.php:4) in /home/grupo/public_html/BPM/session.php on line 18
+[22-Jan-2015 15:24:20 America/Chicago] PHP Fatal error:  Call to undefined function array_column() in /home/grupo/public_html/BPM/session.php on line 31
+[22-Jan-2015 15:24:43 America/Chicago] PHP Fatal error:  Call to undefined function array_column() in /home/grupo/public_html/BPM/session.php on line 31
+[22-Jan-2015 15:24:47 America/Chicago] PHP Fatal error:  Call to undefined function array_column() in /home/grupo/public_html/BPM/session.php on line 31
+[22-Jan-2015 15:25:13 America/Chicago] PHP Fatal error:  Call to undefined function array_column() in /home/grupo/public_html/BPM/session.php on line 31
+[22-Jan-2015 15:26:19 America/Chicago] PHP Fatal error:  Call to undefined function array_column() in /home/grupo/public_html/BPM/session.php on line 31
+[22-Jan-2015 15:26:32 America/Chicago] PHP Fatal error:  Call to undefined function array_column() in /home/grupo/public_html/BPM/session.php on line 31
+[22-Jan-2015 15:26:37 America/Chicago] PHP Fatal error:  Call to undefined function array_column() in /home/grupo/public_html/BPM/session.php on line 31
+[22-Jan-2015 15:26:56 America/Chicago] PHP Fatal error:  Call to undefined function array_column() in /home/grupo/public_html/BPM/session.php on line 31
+[22-Jan-2015 15:28:25 America/Chicago] PHP Fatal error:  Call to undefined function array_column() in /home/grupo/public_html/BPM/session.php on line 31
+[22-Jan-2015 15:28:47 America/Chicago] PHP Fatal error:  Call to undefined function array_column() in /home/grupo/public_html/BPM/session.php on line 31
+[22-Jan-2015 15:30:56 America/Chicago] PHP Fatal error:  Call to undefined function array_column() in /home/grupo/public_html/BPM/session.php on line 31
+[22-Jan-2015 15:31:06 America/Chicago] PHP Fatal error:  Call to undefined function array_column() in /home/grupo/public_html/BPM/session.php on line 31
+[22-Jan-2015 15:31:18 America/Chicago] PHP Fatal error:  Call to undefined function array_column() in /home/grupo/public_html/BPM/session.php on line 31
+[22-Jan-2015 15:31:22 America/Chicago] PHP Fatal error:  Call to undefined function array_column() in /home/grupo/public_html/BPM/session.php on line 31
+[22-Jan-2015 15:31:40 America/Chicago] PHP Fatal error:  Call to undefined function array_column() in /home/grupo/public_html/BPM/session.php on line 31
+[22-Jan-2015 15:31:45 America/Chicago] PHP Fatal error:  Call to undefined function array_column() in /home/grupo/public_html/BPM/session.php on line 31
+[22-Jan-2015 15:31:58 America/Chicago] PHP Fatal error:  Call to undefined function array_column() in /home/grupo/public_html/BPM/session.php on line 31
+[22-Jan-2015 15:33:22 America/Chicago] PHP Fatal error:  Call to undefined function array_column() in /home/grupo/public_html/BPM/session.php on line 31
+[22-Jan-2015 15:33:33 America/Chicago] PHP Fatal error:  Call to undefined function array_column() in /home/grupo/public_html/BPM/session.php on line 31
+[22-Jan-2015 16:53:38 America/Chicago] PHP Warning:  require(../library/fpdf/fpdf.php): failed to open stream: No such file or directory in /home/grupo/public_html/BPM/app/picking.php on line 2
+[22-Jan-2015 16:53:38 America/Chicago] PHP Warning:  require(../library/fpdf/fpdf.php): failed to open stream: No such file or directory in /home/grupo/public_html/BPM/app/picking.php on line 2
+[22-Jan-2015 16:53:38 America/Chicago] PHP Fatal error:  require(): Failed opening required '../library/fpdf/fpdf.php' (include_path='.:/opt/php55/lib/php') in /home/grupo/public_html/BPM/app/picking.php on line 2
+[23-Jan-2015 08:42:15 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[23-Jan-2015 08:42:15 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[23-Jan-2015 08:42:15 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[23-Jan-2015 08:42:15 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[23-Jan-2015 17:46:56 America/Chicago] PHP Warning:  require(../library/fpdf/fpdf.php): failed to open stream: No such file or directory in /home/grupo/public_html/BPM/app/picking.php on line 2
+[23-Jan-2015 17:46:56 America/Chicago] PHP Warning:  require(../library/fpdf/fpdf.php): failed to open stream: No such file or directory in /home/grupo/public_html/BPM/app/picking.php on line 2
+[23-Jan-2015 17:46:56 America/Chicago] PHP Fatal error:  require(): Failed opening required '../library/fpdf/fpdf.php' (include_path='.:/opt/php55/lib/php') in /home/grupo/public_html/BPM/app/picking.php on line 2
+[23-Jan-2015 17:47:00 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[23-Jan-2015 17:47:00 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[23-Jan-2015 17:47:00 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[23-Jan-2015 17:47:00 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[23-Jan-2015 17:47:00 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[23-Jan-2015 17:47:00 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[23-Jan-2015 17:47:00 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[23-Jan-2015 17:47:00 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[23-Jan-2015 17:47:00 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[23-Jan-2015 17:47:00 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[23-Jan-2015 17:47:00 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[23-Jan-2015 17:47:00 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[23-Jan-2015 17:47:00 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[23-Jan-2015 17:47:00 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[24-Jan-2015 06:28:23 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[24-Jan-2015 06:28:23 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[24-Jan-2015 06:28:23 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[24-Jan-2015 06:28:23 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[24-Jan-2015 06:28:23 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[24-Jan-2015 06:28:23 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[24-Jan-2015 06:28:23 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[24-Jan-2015 06:28:23 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[24-Jan-2015 06:28:23 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[24-Jan-2015 06:28:23 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[24-Jan-2015 06:28:23 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[24-Jan-2015 06:28:23 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[24-Jan-2015 06:28:23 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[24-Jan-2015 06:28:23 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[26-Jan-2015 13:41:01 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[26-Jan-2015 13:41:01 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[26-Jan-2015 13:41:01 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[26-Jan-2015 13:41:01 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[26-Jan-2015 13:41:01 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[26-Jan-2015 13:41:01 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[26-Jan-2015 13:41:01 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[26-Jan-2015 13:41:01 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[26-Jan-2015 13:41:01 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[26-Jan-2015 13:41:01 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[26-Jan-2015 13:41:01 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[26-Jan-2015 13:41:01 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[26-Jan-2015 13:41:01 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[26-Jan-2015 13:41:01 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[26-Jan-2015 13:41:01 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 39
+[26-Jan-2015 13:41:01 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 39
+[26-Jan-2015 14:43:49 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 14:43:49 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 14:43:49 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 14:43:49 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:28:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[26-Jan-2015 17:28:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[26-Jan-2015 17:28:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[26-Jan-2015 17:28:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[26-Jan-2015 17:32:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:32:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:32:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:32:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:32:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:32:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:32:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:32:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:32:40 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:32:40 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:32:40 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:32:40 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:32:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:32:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:32:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:32:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:32:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:32:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:32:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:32:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:33:43 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:33:43 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:33:43 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[26-Jan-2015 17:33:43 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 09:31:26 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 09:31:26 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 09:31:26 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 09:31:26 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 09:51:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 09:51:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 09:51:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 09:51:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 10:21:18 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 10:21:18 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 10:21:18 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 10:21:18 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 10:21:36 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 10:21:36 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 10:21:36 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 10:21:36 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 10:21:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 10:21:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 10:21:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 10:21:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 12:18:57 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPicking.php on line 22
+[27-Jan-2015 16:44:36 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 16:44:36 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 16:44:36 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 16:44:36 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 16:45:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 16:45:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 16:45:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 16:45:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 16:47:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 16:47:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 16:47:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 16:47:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 16:48:12 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 16:48:12 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 16:48:12 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 16:48:12 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 16:52:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 16:52:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 16:52:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 16:52:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 17:01:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 17:01:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 17:01:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 17:01:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 17:09:06 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPicking.php on line 22
+[27-Jan-2015 17:09:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/grupo/public_html/BPM/app/hojapicking.php on line 75
+[27-Jan-2015 17:12:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 17:12:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 17:12:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 17:12:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 17:12:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 17:12:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 17:12:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 17:12:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 17:19:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 17:19:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 17:19:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 17:19:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 17:19:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 17:19:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 17:19:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 17:19:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 17:20:28 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 17:20:28 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 17:20:28 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 17:20:28 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[27-Jan-2015 17:29:50 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPicking.php on line 22
+[27-Jan-2015 17:36:47 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 17:36:47 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 17:36:47 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 17:36:47 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[27-Jan-2015 18:04:23 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPicking.php on line 22
+[27-Jan-2015 20:21:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPicking.php on line 22
+[27-Jan-2015 20:41:51 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPicking.php on line 22
+[27-Jan-2015 20:47:23 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPicking.php on line 14
+[27-Jan-2015 20:52:47 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPicking.php on line 14
+[27-Jan-2015 20:57:15 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPicking.php on line 14
+[27-Jan-2015 21:06:32 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPicking.php on line 14
+[27-Jan-2015 21:06:32 America/Chicago] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/grupo/public_html/BPM/app/insPicking.php on line 31
+[27-Jan-2015 21:08:40 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPicking.php on line 14
+[27-Jan-2015 21:20:20 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPicking.php on line 14
+[27-Jan-2015 21:46:10 America/Chicago] PHP Fatal error:  Only variables can be passed by reference in /home/grupo/public_html/BPM/app/insPicking.php on line 14
+[27-Jan-2015 21:53:16 America/Chicago] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/grupo/public_html/BPM/app/insPicking.php on line 15
+[28-Jan-2015 19:31:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[28-Jan-2015 19:31:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[28-Jan-2015 19:31:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[28-Jan-2015 19:31:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:57 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:57 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:57 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:57 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:37:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 15:38:30 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:38:30 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:38:30 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:38:30 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:39:26 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:39:26 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:39:26 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:39:26 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:39:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:39:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:39:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:39:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:40:57 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:40:57 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:40:57 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:40:57 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:51 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:51 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:51 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:41:51 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:15 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:15 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:15 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:15 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:17 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:17 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:17 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:17 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:54 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:54 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:54 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:42:54 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:44:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:44:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:44:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:44:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:44:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:44:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:44:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:44:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:44:33 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:44:33 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:44:33 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:44:33 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:44:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:44:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:44:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:44:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:45:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:45:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:45:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:45:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:47:32 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:47:32 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:47:32 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:47:32 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:47:48 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:47:48 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:47:48 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:47:48 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:48:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:48:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:48:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:48:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:50:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:50:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:50:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:50:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:50:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:50:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:50:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:50:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:59:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:59:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:59:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 15:59:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 16:03:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 16:03:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 16:03:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 16:03:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 16:16:15 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[29-Jan-2015 16:16:15 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[29-Jan-2015 16:16:15 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[29-Jan-2015 16:16:15 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[29-Jan-2015 16:16:15 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[29-Jan-2015 16:16:15 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[29-Jan-2015 16:16:15 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[29-Jan-2015 16:16:15 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[29-Jan-2015 16:16:20 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[29-Jan-2015 16:16:20 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[29-Jan-2015 16:16:20 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[29-Jan-2015 16:16:20 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[29-Jan-2015 16:16:20 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[29-Jan-2015 16:16:20 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[29-Jan-2015 16:16:20 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[29-Jan-2015 16:16:20 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[29-Jan-2015 16:16:20 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[29-Jan-2015 16:16:20 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[29-Jan-2015 16:16:20 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[29-Jan-2015 16:16:20 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[29-Jan-2015 16:16:20 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[29-Jan-2015 16:16:20 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[29-Jan-2015 16:16:20 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 39
+[29-Jan-2015 16:16:20 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 39
+[29-Jan-2015 16:16:20 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 39
+[29-Jan-2015 16:16:20 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 39
+[29-Jan-2015 16:25:21 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 16:25:21 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 16:25:21 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 16:25:21 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 16:25:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 16:25:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 16:25:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 16:25:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[29-Jan-2015 16:40:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 16:40:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 16:40:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[29-Jan-2015 16:40:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 08:04:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 08:04:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 08:04:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 08:04:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 08:18:32 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 08:18:32 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 08:18:32 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 08:18:32 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 08:26:24 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 08:26:24 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 08:26:24 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 08:26:24 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 09:08:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 09:08:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 09:08:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 09:08:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 09:11:45 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 09:11:45 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 09:11:45 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 09:11:45 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 09:19:49 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:19:49 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:19:49 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:19:49 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:23:18 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:23:18 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:23:18 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:23:18 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:24:10 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:24:10 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:24:10 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:24:10 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:25:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:25:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:25:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:25:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:27:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 09:27:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 09:27:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 09:27:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 09:33:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:33:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:33:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:33:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:47:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 09:47:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 09:47:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 09:47:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 09:49:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 09:49:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 09:49:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 09:49:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 09:51:30 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:51:30 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:51:30 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:51:30 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:53:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:53:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:53:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:53:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:57:15 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:57:15 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:57:15 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 09:57:15 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:03:46 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:03:46 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:03:46 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:03:46 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:06:20 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:06:20 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:06:20 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:06:20 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:13:19 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:13:19 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:13:19 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:13:19 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:14:21 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:14:21 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:14:21 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:14:21 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:14:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:14:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:14:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:14:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:19:51 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 10:19:51 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 10:19:51 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 10:19:51 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 10:21:45 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:21:45 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:21:45 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:21:45 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:22:17 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:22:17 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:22:17 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:22:17 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:23:50 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:23:50 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:23:50 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:23:50 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:23:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:23:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:23:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:23:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:24:50 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:24:50 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:24:50 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:24:50 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:25:43 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:25:43 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:25:43 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:25:43 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:27:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:27:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:27:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:27:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:33:06 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:33:06 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:33:06 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:33:06 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:36:43 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:36:43 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:36:43 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:36:43 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 10:48:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 10:48:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 10:48:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 10:48:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 10:54:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 10:54:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 10:54:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 10:54:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 10:57:43 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 10:57:43 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 10:57:43 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 10:57:43 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 11:18:28 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 11:18:28 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 11:18:28 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 11:18:28 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 11:19:40 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 11:19:40 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 11:19:40 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 11:19:40 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 11:31:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 11:31:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 11:31:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 11:31:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 11:36:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 11:36:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 11:36:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 11:36:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 11:36:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 11:36:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 11:36:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 11:36:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 11:43:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 11:43:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 11:43:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 11:43:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 11:54:30 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 11:54:30 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 11:54:30 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 11:54:30 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 13:44:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 13:44:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 13:44:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 13:44:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 14:32:44 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 14:32:44 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 14:32:44 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 14:32:44 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 14:47:18 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 14:47:18 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 14:47:18 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 14:47:18 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 15:27:21 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 15:27:21 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 15:27:21 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 15:27:21 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 15:32:52 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 15:32:52 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 15:32:52 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 15:32:52 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 15:34:14 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 15:34:14 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 15:34:14 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 15:34:14 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 15:49:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 15:49:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 15:49:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 15:49:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 15:58:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 15:58:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 15:58:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 15:58:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 16:01:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 16:01:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 16:01:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 16:01:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 16:10:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 16:10:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 16:10:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 16:10:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 16:11:14 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 16:11:14 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 16:11:14 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 16:11:14 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 18:10:45 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:10:45 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:10:45 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:10:45 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:10:45 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:10:45 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:10:45 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:10:45 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:10:45 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:10:45 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:10:45 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:10:45 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:10:45 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:10:45 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:10:45 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 39
+[30-Jan-2015 18:10:45 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 39
+[30-Jan-2015 18:10:45 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 39
+[30-Jan-2015 18:10:45 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 39
+[30-Jan-2015 18:21:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 18:21:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 18:21:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 18:21:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 18:30:11 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 18:30:11 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 18:30:11 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 18:30:11 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 39
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 39
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 39
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 39
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 31
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 39
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 39
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/grupo/public_html/BPM/session.php on line 39
+[30-Jan-2015 18:43:30 America/Chicago] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/grupo/public_html/BPM/session.php on line 39
+[30-Jan-2015 18:44:35 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 18:44:35 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 18:44:35 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 18:44:35 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 18:46:19 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 18:46:19 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 18:46:19 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 18:46:19 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 18:46:34 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 18:46:34 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 18:46:34 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 18:46:34 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 18:46:47 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 18:46:47 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 18:46:47 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 18:46:47 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 18:48:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 18:48:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 18:48:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 18:48:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 18:54:00 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 18:54:00 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 18:54:00 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 18:54:00 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 18:58:44 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 18:58:44 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 18:58:44 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 18:58:44 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 19:07:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 19:07:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 19:07:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 19:07:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 19:09:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 19:09:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 19:09:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 19:09:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 19:18:49 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 19:18:49 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 19:18:49 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 19:18:49 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 19:19:02 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 19:19:02 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 19:19:02 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 19:19:02 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 19:23:20 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 19:23:20 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 19:23:20 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 19:23:20 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 19:39:15 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 19:39:15 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 19:39:15 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 19:39:15 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 19:44:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 19:44:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 19:44:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 19:44:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 19:48:00 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 19:48:00 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 19:48:00 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 19:48:00 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 19:48:44 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 19:48:44 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 19:48:44 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 19:48:44 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[30-Jan-2015 19:56:45 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 19:56:45 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 19:56:45 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[30-Jan-2015 19:56:45 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 25
+[31-Jan-2015 22:53:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[31-Jan-2015 22:53:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[31-Jan-2015 22:53:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[31-Jan-2015 22:53:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[31-Jan-2015 23:16:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[31-Jan-2015 23:16:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[31-Jan-2015 23:16:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[31-Jan-2015 23:16:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[31-Jan-2015 23:17:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[31-Jan-2015 23:17:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[31-Jan-2015 23:17:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[31-Jan-2015 23:17:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[31-Jan-2015 23:23:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[31-Jan-2015 23:23:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[31-Jan-2015 23:23:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[31-Jan-2015 23:23:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[31-Jan-2015 23:23:14 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[31-Jan-2015 23:23:14 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[31-Jan-2015 23:23:14 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[31-Jan-2015 23:23:14 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[01-Feb-2015 10:03:06 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 10:03:06 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 10:03:06 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 10:03:06 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 11:39:34 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 11:39:34 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 11:39:34 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 11:39:34 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 11:40:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[01-Feb-2015 11:40:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[01-Feb-2015 11:40:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[01-Feb-2015 11:40:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[01-Feb-2015 12:33:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:33:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:33:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:33:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:35:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:35:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:35:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:35:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:35:34 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:35:34 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:35:34 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:35:34 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:35:35 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:35:35 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:35:35 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:35:35 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:35:40 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:35:40 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:35:40 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:35:40 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:35:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:35:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:35:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:35:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:36:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:36:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:36:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:36:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:36:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:36:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:36:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:36:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:36:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:36:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:36:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:36:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:36:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:36:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:36:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:36:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:36:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:36:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:36:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 12:36:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 20:00:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 20:00:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 20:00:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 20:00:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 20:02:51 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[01-Feb-2015 20:02:51 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[01-Feb-2015 20:02:51 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[01-Feb-2015 20:02:51 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[01-Feb-2015 22:23:12 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 22:23:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 22:23:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[01-Feb-2015 22:23:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 03:04:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 03:04:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 03:04:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 03:04:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 03:19:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 03:19:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 03:19:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 03:19:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 03:34:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 03:34:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 03:34:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 03:34:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 03:34:23 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 03:34:23 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 03:34:23 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 03:34:23 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 03:34:33 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 03:34:33 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 03:34:33 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 03:34:33 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 03:51:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 03:51:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 03:51:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 03:51:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 04:09:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 04:09:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 04:09:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 04:09:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 04:31:46 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 04:31:46 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 04:31:46 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 04:31:46 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 04:32:33 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 04:32:33 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 04:32:33 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 04:32:33 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 10:16:07 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 10:16:07 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 10:16:07 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 10:16:07 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 10:17:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 10:17:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 10:17:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 10:17:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 10:21:12 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 10:21:12 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 10:21:12 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 10:21:12 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 10:22:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 10:22:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 10:22:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 10:22:03 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 10:52:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 10:52:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 10:52:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 10:52:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 10:54:19 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 10:54:19 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 10:54:19 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 10:54:19 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 11:36:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 11:36:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 11:36:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 11:36:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 11:54:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 11:54:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 11:54:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 11:54:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 11:54:45 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 11:54:45 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 11:54:45 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 11:54:45 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 11:55:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 11:55:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 11:55:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 11:55:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 11:55:57 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 11:55:57 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 11:55:57 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 11:55:57 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 12:19:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 12:19:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 12:19:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 12:19:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 13:17:36 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 13:17:36 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 13:17:36 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 13:17:36 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 13:28:06 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 13:28:06 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 13:28:06 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 13:28:06 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 13:46:17 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 13:46:17 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 13:46:17 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 13:46:17 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 13:53:46 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 13:53:46 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 13:53:46 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 13:53:46 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 14:02:20 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 14:02:20 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 14:02:20 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 14:02:20 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 14:24:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 14:24:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 14:24:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 14:24:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 14:36:51 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 14:36:51 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 14:36:51 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 14:36:51 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 14:44:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 14:44:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 14:44:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 14:44:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[02-Feb-2015 16:30:32 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 16:30:33 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 16:30:33 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 16:30:33 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 17:08:28 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 17:08:28 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 17:08:28 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[02-Feb-2015 17:08:28 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 08:07:06 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[03-Feb-2015 08:07:06 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[03-Feb-2015 08:07:06 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[03-Feb-2015 08:07:06 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[03-Feb-2015 09:09:00 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 09:09:00 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 09:09:00 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 09:09:00 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 09:46:02 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 09:46:02 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 09:46:02 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 09:46:02 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 10:07:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 10:07:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 10:07:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 10:07:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 10:25:06 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 10:25:06 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 10:25:06 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 10:25:06 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 10:39:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 10:39:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 10:39:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 10:39:39 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 10:40:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[03-Feb-2015 10:40:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[03-Feb-2015 10:40:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[03-Feb-2015 10:40:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[03-Feb-2015 10:43:01 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[03-Feb-2015 10:43:01 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[03-Feb-2015 10:43:01 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[03-Feb-2015 10:43:01 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[03-Feb-2015 10:44:52 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[03-Feb-2015 10:44:52 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[03-Feb-2015 10:44:52 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[03-Feb-2015 10:44:52 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[03-Feb-2015 11:06:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 11:06:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 11:06:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 11:06:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 11:11:35 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[03-Feb-2015 11:11:35 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[03-Feb-2015 11:11:35 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[03-Feb-2015 11:11:35 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/updPedido.php on line 27
+[03-Feb-2015 11:34:24 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 11:34:24 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 11:34:24 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 11:34:24 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 13:26:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 13:26:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 13:26:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26
+[03-Feb-2015 13:26:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/grupo/public_html/BPM/app/insPedido.php on line 26

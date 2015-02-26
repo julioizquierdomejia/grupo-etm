@@ -1,0 +1,73 @@
+.EnvolturaVideo{
+	height: auto;
+	width: 100%;
+	overflow: hidden;
+}
+
+.skinVideo{
+	background-image: url('../img/fondoVideos.png');
+	background-repeat: no-repeat;
+	float: left;
+	width: 855px;
+	height: auto;
+	position: relative;
+	margin: 40px 0px 0px 28px;
+}
+
+.skinVideo img
+{
+	vertical-align: middle;
+}
+
+.videoInfo
+{
+	color: #727d84;
+	font-size: 12px;
+	position: absolute;
+}
+
+#contenidoAudio
+{
+	height: 550px;
+	margin-left: 138px;
+	margin-top: 48px;
+	position: relative;
+	width: 569px;
+}
+
+#importante
+{
+	margin-top: 110px;
+}
+
+#nombreArchivo
+{
+	color: black;
+	font-size: 25px;
+	position: relative;
+}
+
+#unidadAudio
+{
+	margin-top: 10px;
+	font-size: 14px;
+}
+
+#temaYPagina
+{
+	margin-top: 50px;
+	margin-left: -140px;
+}
+
+#tituloVideo
+{
+	color: white;
+	font-size: 13px;
+	margin-left: 30px;
+	margin-top: 5px;
+}
+
+#nombreAudio{
+	font-size: 22px;
+}
+

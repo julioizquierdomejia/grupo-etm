@@ -1,0 +1,41 @@
+.envolturaPageFlip{
+	background-color: white;
+	width: 967px;
+	height: 670px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.tituloPageFlip{
+	margin: 16px 0px 0px 62px;
+	position: absolute;
+}
+
+.tituloPageFlip h1{
+	color: #999999;
+	font-size: 32px;
+}
+
+.catalogo{
+	position: relative;
+	top: 60px;
+}
+
+.ruta{
+	position: relative;
+	top: 18px;
+	left: 62px;
+}
+
+.ruta span{
+	font-size: 14px;
+	font-family: 'Arial';
+	color: gray;
+}
+
+.ruta span a{
+	text-decoration: none;
+	font-size: 14px;
+	font-family: 'Arial';
+	color: gray !important;
+}

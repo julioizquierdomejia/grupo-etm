@@ -1,0 +1,91 @@
+.EnvolturaLogin{
+	height: 440px;
+	width: 100%;
+	overflow: hidden;
+}
+
+.lateralIzq{
+	margin-top: 90px;
+	float: left;
+	
+}
+
+.lateralDer{
+	margin-top: 90px;
+	float: right;
+	
+}
+
+.barrita{
+	background-color: #0292F1;
+	height: 94px;
+	width: 30px;
+}
+
+.barrita:first-child{
+	background-color: #A6D329;
+}
+
+.barrita:last-child{
+	background-color: #F2A100;
+}
+
+
+.cabeceraLogin{
+	position: absolute;
+	margin: 20px 0 0 95px;
+	*margin-top: 20px; /* IE 7 and below */
+	*margin-left: -300px; /* IE 7 and below */
+}
+
+.carpetaAlumno{
+	float: left;
+}
+
+.infoLogin{
+	width: 600px;
+	position: relative;
+	margin: 0 0 0 186px;
+	font-family: 'Arial';
+}
+
+#loginForm{
+	float: left;
+	position: relative;
+	top: 181px;
+	left: 272px;
+}
+
+form{
+	font-family:"Arial Rounded MT Bold", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}
+
+.tablaForm #inForm{
+	background-color: #F15A24;
+	border-radius: 16px;
+	padding: 3px 20px;
+	color: white;
+	float: right;
+}
+
+.tituloForm{
+	color:#F15A24;
+	text-align: center;
+	font-family:"Arial Rounded MT Bold", Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	margin: 0px 0px 0px 200px;
+}
+
+.tablaForm .labels{
+	width: 100px;
+}
+
+.tablaForm .fields{
+	width: 250px;
+}
+
+.tablaForm input{
+	padding: 7px;
+}
+

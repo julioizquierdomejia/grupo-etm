@@ -1,0 +1,98 @@
+[29-Sep-2014 21:25:20 UTC] #0 /home/grupo/public_html/crm/includes/main/WebUI.php(166): Vtiger_WebUI->checkLogin(Object(Vtiger_Request))
+#1 /home/grupo/public_html/crm/index.php(18): Vtiger_WebUI->process(Object(Vtiger_Request))
+#2 {main}
+[23-Oct-2014 03:09:52 UTC] #0 /home/grupo/public_html/crm/includes/main/WebUI.php(166): Vtiger_WebUI->checkLogin(Object(Vtiger_Request))
+#1 /home/grupo/public_html/crm/index.php(18): Vtiger_WebUI->process(Object(Vtiger_Request))
+#2 {main}
+[24-Oct-2014 15:44:21 UTC] PHP Warning:  mysqli_real_connect(): (08004/1040): Too many connections in /home/grupo/public_html/crm/libraries/adodb/drivers/adodb-mysqli.inc.php on line 123
+[29-Oct-2014 07:01:48 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1040): Too many connections in /home/grupo/public_html/crm/libraries/adodb/drivers/adodb-mysqli.inc.php on line 123
+[29-Oct-2014 18:00:06 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupo/public_html/crm/libraries/adodb/drivers/adodb-mysqli.inc.php on line 123
+[29-Oct-2014 18:44:02 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupo/public_html/crm/libraries/adodb/drivers/adodb-mysqli.inc.php on line 123
+[29-Oct-2014 22:22:02 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupo/public_html/crm/libraries/adodb/drivers/adodb-mysqli.inc.php on line 123
+[30-Oct-2014 01:00:04 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupo/public_html/crm/libraries/adodb/drivers/adodb-mysqli.inc.php on line 123
+[30-Oct-2014 04:00:04 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupo/public_html/crm/libraries/adodb/drivers/adodb-mysqli.inc.php on line 123
+[30-Oct-2014 13:00:05 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2013): Lost connection to MySQL server at 'reading initial communication packet', system error: 104 in /home/grupo/public_html/crm/libraries/adodb/drivers/adodb-mysqli.inc.php on line 123
+[30-Oct-2014 18:00:06 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupo/public_html/crm/libraries/adodb/drivers/adodb-mysqli.inc.php on line 123
+[31-Oct-2014 10:22:02 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupo/public_html/crm/libraries/adodb/drivers/adodb-mysqli.inc.php on line 123
+[08-Nov-2014 15:02:05 UTC] #0 /home/grupo/public_html/crm/includes/http/Request.php(193): Vtiger_Request->validateReferer()
+#1 /home/grupo/public_html/crm/includes/runtime/Controller.php(83): Vtiger_Request->validateReadAccess()
+#2 /home/grupo/public_html/crm/includes/main/WebUI.php(163): Vtiger_Action_Controller->validateRequest(Object(Vtiger_Request))
+#3 /home/grupo/public_html/crm/index.php(18): Vtiger_WebUI->process(Object(Vtiger_Request))
+#4 {main}
+[19-Nov-2014 17:44:44 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1040): Too many connections in /home/grupo/public_html/crm/libraries/adodb/drivers/adodb-mysqli.inc.php on line 123
+[24-Nov-2014 14:55:49 UTC] #0 /home/grupo/public_html/crm/includes/main/WebUI.php(156): Vtiger_Loader::getComponentClassName('View', 'List?rand=0.293...', 'Potentials')
+#1 /home/grupo/public_html/crm/index.php(18): Vtiger_WebUI->process(Object(Vtiger_Request))
+#2 {main}
+[24-Nov-2014 14:55:53 UTC] #0 /home/grupo/public_html/crm/includes/main/WebUI.php(156): Vtiger_Loader::getComponentClassName('View', 'List?rand=0.293...', 'Potentials')
+#1 /home/grupo/public_html/crm/index.php(18): Vtiger_WebUI->process(Object(Vtiger_Request))
+#2 {main}
+[24-Nov-2014 15:05:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/grupo/public_html/crm/modules/Vtiger/helpers/Util.php on line 528
+[24-Nov-2014 15:05:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/grupo/public_html/crm/modules/Vtiger/views/List.php on line 164
+[24-Nov-2014 15:05:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/grupo/public_html/crm/modules/Vtiger/helpers/Util.php on line 528
+[24-Nov-2014 15:05:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/grupo/public_html/crm/modules/Vtiger/views/List.php on line 164
+[24-Nov-2014 15:05:43 UTC] PHP Warning:  Illegal string offset 'firstname' in /home/grupo/public_html/crm/test/templates_c/vlayout/58bff25e33ebd06a0244a902aba42fd59d793201.file.ListViewContents.tpl.php on line 109
+[24-Nov-2014 15:05:43 UTC] PHP Warning:  Illegal string offset 'searchValue' in /home/grupo/public_html/crm/test/templates_c/vlayout/bb557f009b2e241ccb677fe1a5d7284d6e71d469.file.FieldSearchView.tpl.php on line 30
+[24-Nov-2014 15:05:43 UTC] PHP Warning:  Illegal string offset 'lastname' in /home/grupo/public_html/crm/test/templates_c/vlayout/58bff25e33ebd06a0244a902aba42fd59d793201.file.ListViewContents.tpl.php on line 109
+[24-Nov-2014 15:05:43 UTC] PHP Warning:  Illegal string offset 'searchValue' in /home/grupo/public_html/crm/test/templates_c/vlayout/bb557f009b2e241ccb677fe1a5d7284d6e71d469.file.FieldSearchView.tpl.php on line 30
+[24-Nov-2014 15:05:43 UTC] PHP Warning:  Illegal string offset 'company' in /home/grupo/public_html/crm/test/templates_c/vlayout/58bff25e33ebd06a0244a902aba42fd59d793201.file.ListViewContents.tpl.php on line 109
+[24-Nov-2014 15:05:43 UTC] PHP Warning:  Illegal string offset 'searchValue' in /home/grupo/public_html/crm/test/templates_c/vlayout/bb557f009b2e241ccb677fe1a5d7284d6e71d469.file.FieldSearchView.tpl.php on line 30
+[24-Nov-2014 15:05:43 UTC] PHP Warning:  Illegal string offset 'phone' in /home/grupo/public_html/crm/test/templates_c/vlayout/58bff25e33ebd06a0244a902aba42fd59d793201.file.ListViewContents.tpl.php on line 109
+[24-Nov-2014 15:05:43 UTC] PHP Warning:  Illegal string offset 'searchValue' in /home/grupo/public_html/crm/test/templates_c/vlayout/bb557f009b2e241ccb677fe1a5d7284d6e71d469.file.FieldSearchView.tpl.php on line 30
+[24-Nov-2014 15:05:43 UTC] PHP Warning:  Illegal string offset 'website' in /home/grupo/public_html/crm/test/templates_c/vlayout/58bff25e33ebd06a0244a902aba42fd59d793201.file.ListViewContents.tpl.php on line 109
+[24-Nov-2014 15:05:43 UTC] PHP Warning:  Illegal string offset 'searchValue' in /home/grupo/public_html/crm/test/templates_c/vlayout/bb557f009b2e241ccb677fe1a5d7284d6e71d469.file.FieldSearchView.tpl.php on line 30
+[24-Nov-2014 15:05:43 UTC] PHP Warning:  Illegal string offset 'email' in /home/grupo/public_html/crm/test/templates_c/vlayout/58bff25e33ebd06a0244a902aba42fd59d793201.file.ListViewContents.tpl.php on line 109
+[24-Nov-2014 15:05:43 UTC] PHP Warning:  Illegal string offset 'searchValue' in /home/grupo/public_html/crm/test/templates_c/vlayout/bb557f009b2e241ccb677fe1a5d7284d6e71d469.file.FieldSearchView.tpl.php on line 30
+[24-Nov-2014 15:05:43 UTC] PHP Warning:  Illegal string offset 'assigned_user_id' in /home/grupo/public_html/crm/test/templates_c/vlayout/58bff25e33ebd06a0244a902aba42fd59d793201.file.ListViewContents.tpl.php on line 109
+[24-Nov-2014 15:05:43 UTC] PHP Warning:  Illegal string offset 'searchValue' in /home/grupo/public_html/crm/test/templates_c/vlayout/f1b64be497c9a6bb6f8f1dbf241bac486928806a.file.OwnerFieldSearchView.tpl.php on line 40
+[24-Nov-2014 15:05:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/grupo/public_html/crm/modules/Vtiger/helpers/Util.php on line 528
+[24-Nov-2014 15:05:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/grupo/public_html/crm/modules/Vtiger/views/List.php on line 164
+[24-Nov-2014 15:05:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/grupo/public_html/crm/modules/Vtiger/helpers/Util.php on line 528
+[24-Nov-2014 15:05:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/grupo/public_html/crm/modules/Vtiger/views/List.php on line 164
+[24-Nov-2014 15:05:45 UTC] PHP Warning:  Illegal string offset 'firstname' in /home/grupo/public_html/crm/test/templates_c/vlayout/58bff25e33ebd06a0244a902aba42fd59d793201.file.ListViewContents.tpl.php on line 109
+[24-Nov-2014 15:05:45 UTC] PHP Warning:  Illegal string offset 'searchValue' in /home/grupo/public_html/crm/test/templates_c/vlayout/bb557f009b2e241ccb677fe1a5d7284d6e71d469.file.FieldSearchView.tpl.php on line 30
+[24-Nov-2014 15:05:45 UTC] PHP Warning:  Illegal string offset 'lastname' in /home/grupo/public_html/crm/test/templates_c/vlayout/58bff25e33ebd06a0244a902aba42fd59d793201.file.ListViewContents.tpl.php on line 109
+[24-Nov-2014 15:05:45 UTC] PHP Warning:  Illegal string offset 'searchValue' in /home/grupo/public_html/crm/test/templates_c/vlayout/bb557f009b2e241ccb677fe1a5d7284d6e71d469.file.FieldSearchView.tpl.php on line 30
+[24-Nov-2014 15:05:45 UTC] PHP Warning:  Illegal string offset 'company' in /home/grupo/public_html/crm/test/templates_c/vlayout/58bff25e33ebd06a0244a902aba42fd59d793201.file.ListViewContents.tpl.php on line 109
+[24-Nov-2014 15:05:45 UTC] PHP Warning:  Illegal string offset 'searchValue' in /home/grupo/public_html/crm/test/templates_c/vlayout/bb557f009b2e241ccb677fe1a5d7284d6e71d469.file.FieldSearchView.tpl.php on line 30
+[24-Nov-2014 15:05:45 UTC] PHP Warning:  Illegal string offset 'phone' in /home/grupo/public_html/crm/test/templates_c/vlayout/58bff25e33ebd06a0244a902aba42fd59d793201.file.ListViewContents.tpl.php on line 109
+[24-Nov-2014 15:05:45 UTC] PHP Warning:  Illegal string offset 'searchValue' in /home/grupo/public_html/crm/test/templates_c/vlayout/bb557f009b2e241ccb677fe1a5d7284d6e71d469.file.FieldSearchView.tpl.php on line 30
+[24-Nov-2014 15:05:45 UTC] PHP Warning:  Illegal string offset 'website' in /home/grupo/public_html/crm/test/templates_c/vlayout/58bff25e33ebd06a0244a902aba42fd59d793201.file.ListViewContents.tpl.php on line 109
+[24-Nov-2014 15:05:45 UTC] PHP Warning:  Illegal string offset 'searchValue' in /home/grupo/public_html/crm/test/templates_c/vlayout/bb557f009b2e241ccb677fe1a5d7284d6e71d469.file.FieldSearchView.tpl.php on line 30
+[24-Nov-2014 15:05:45 UTC] PHP Warning:  Illegal string offset 'email' in /home/grupo/public_html/crm/test/templates_c/vlayout/58bff25e33ebd06a0244a902aba42fd59d793201.file.ListViewContents.tpl.php on line 109
+[24-Nov-2014 15:05:45 UTC] PHP Warning:  Illegal string offset 'searchValue' in /home/grupo/public_html/crm/test/templates_c/vlayout/bb557f009b2e241ccb677fe1a5d7284d6e71d469.file.FieldSearchView.tpl.php on line 30
+[24-Nov-2014 15:05:45 UTC] PHP Warning:  Illegal string offset 'assigned_user_id' in /home/grupo/public_html/crm/test/templates_c/vlayout/58bff25e33ebd06a0244a902aba42fd59d793201.file.ListViewContents.tpl.php on line 109
+[24-Nov-2014 15:05:45 UTC] PHP Warning:  Illegal string offset 'searchValue' in /home/grupo/public_html/crm/test/templates_c/vlayout/f1b64be497c9a6bb6f8f1dbf241bac486928806a.file.OwnerFieldSearchView.tpl.php on line 40
+[24-Nov-2014 18:13:41 UTC] #0 /home/grupo/public_html/crm/includes/main/WebUI.php(156): Vtiger_Loader::getComponentClassName('View', 'List?rand=0.774...', 'Products')
+#1 /home/grupo/public_html/crm/index.php(18): Vtiger_WebUI->process(Object(Vtiger_Request))
+#2 {main}
+[24-Nov-2014 18:13:44 UTC] #0 /home/grupo/public_html/crm/includes/main/WebUI.php(156): Vtiger_Loader::getComponentClassName('View', 'List?rand=0.729...', 'Products')
+#1 /home/grupo/public_html/crm/index.php(18): Vtiger_WebUI->process(Object(Vtiger_Request))
+#2 {main}
+[24-Nov-2014 18:13:44 UTC] #0 /home/grupo/public_html/crm/includes/main/WebUI.php(156): Vtiger_Loader::getComponentClassName('View', 'List?rand=0.774...', 'Products')
+#1 /home/grupo/public_html/crm/index.php(18): Vtiger_WebUI->process(Object(Vtiger_Request))
+#2 {main}
+[24-Nov-2014 18:13:46 UTC] #0 /home/grupo/public_html/crm/includes/main/WebUI.php(156): Vtiger_Loader::getComponentClassName('View', 'List?rand=0.947...', 'Products')
+#1 /home/grupo/public_html/crm/index.php(18): Vtiger_WebUI->process(Object(Vtiger_Request))
+#2 {main}
+[24-Nov-2014 18:13:47 UTC] #0 /home/grupo/public_html/crm/includes/main/WebUI.php(156): Vtiger_Loader::getComponentClassName('View', 'List?rand=0.729...', 'Products')
+#1 /home/grupo/public_html/crm/index.php(18): Vtiger_WebUI->process(Object(Vtiger_Request))
+#2 {main}
+[24-Nov-2014 18:13:48 UTC] #0 /home/grupo/public_html/crm/includes/main/WebUI.php(156): Vtiger_Loader::getComponentClassName('View', 'List?rand=0.947...', 'Products')
+#1 /home/grupo/public_html/crm/index.php(18): Vtiger_WebUI->process(Object(Vtiger_Request))
+#2 {main}
+[02-Dec-2014 16:00:47 UTC] PHP Warning:  mysqli_real_connect(): (08004/1040): Too many connections in /home/grupo/public_html/crm/libraries/adodb/drivers/adodb-mysqli.inc.php on line 123
+[19-Dec-2014 21:08:49 UTC] #0 /home/grupo/public_html/crm/includes/main/WebUI.php(166): Vtiger_WebUI->checkLogin(Object(Vtiger_Request))
+#1 /home/grupo/public_html/crm/index.php(18): Vtiger_WebUI->process(Object(Vtiger_Request))
+#2 {main}
+[19-Dec-2014 21:44:51 UTC] #0 /home/grupo/public_html/crm/includes/main/WebUI.php(166): Vtiger_WebUI->checkLogin(Object(Vtiger_Request))
+#1 /home/grupo/public_html/crm/index.php(18): Vtiger_WebUI->process(Object(Vtiger_Request))
+#2 {main}
+[23-Dec-2014 22:16:09 UTC] #0 /home/grupo/public_html/crm/includes/main/WebUI.php(166): Vtiger_WebUI->checkLogin(Object(Vtiger_Request))
+#1 /home/grupo/public_html/crm/index.php(18): Vtiger_WebUI->process(Object(Vtiger_Request))
+#2 {main}
+[24-Dec-2014 13:49:46 UTC] #0 /home/grupo/public_html/crm/includes/http/Request.php(193): Vtiger_Request->validateReferer()
+#1 /home/grupo/public_html/crm/includes/runtime/Controller.php(83): Vtiger_Request->validateReadAccess()
+#2 /home/grupo/public_html/crm/includes/main/WebUI.php(163): Vtiger_Action_Controller->validateRequest(Object(Vtiger_Request))
+#3 /home/grupo/public_html/crm/index.php(18): Vtiger_WebUI->process(Object(Vtiger_Request))
+#4 {main}
+[07-Jan-2015 01:39:13 UTC] PHP Warning:  Creating default object from empty value in /home/grupo/public_html/crm/modules/Reports/models/Record.php on line 185
