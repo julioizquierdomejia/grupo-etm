@@ -161,7 +161,7 @@ else{
 		<div class="slider-wrapper theme-default">
             <div id="slider" class="nivoSlider">
             	<!--<a href="navidad.php"><img src="img/banner/bannerNavidad.jpg" data-thumb="img/banner/bannerNavidad.jpg" alt="Feliz Navidad" /></a>-->
-				<a href="distribuidores.php.php"><img src="img/banner/puntosVentas.jpg" alt="Puntos de Venta" /></a>
+				<a href="distribuidores.php"><img src="img/banner/puntosVentas.jpg" alt="Puntos de Venta" /></a>
 				<a href="fomento.php"><img src="img/banner/bannerFomento.jpg" data-thumb="img/banner/bannerFomento.jpg" alt="Fomento" /></a>
             	<a href="firma.php"><img src="img/banner/bannerFirma.jpg" data-thumb="img/banner/bannerFirma.jpg" alt="Firma Fomento" /></a>
             </div>
