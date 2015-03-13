@@ -267,8 +267,8 @@ else{
 			<div class="gorritoCarpeta"></div>
 			<h4 class="subTituloCarpeta">EDUCACIÓN</h4>
 			<h5 class="tituloCarpeta">SECUNDARIA</h5>
-			<a href="coms.php" class="ver1">actividades COMS<img src="img/iconoVerMas.png"></a>
-			<a href="mat.php" class="ver2">actividades Matemática<img src="img/iconoVerMas.png"></a>
+			<a href="coms.php" class="ver1">Ver actividades COMS<img src="img/iconoVerMas.png"></a>
+			<a href="mat.php" class="ver2">Ver actividades Matemática<img src="img/iconoVerMas.png"></a>
 		</div>
 	</div>
 
